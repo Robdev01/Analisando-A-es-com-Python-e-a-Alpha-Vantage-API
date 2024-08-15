@@ -28,14 +28,7 @@ Instale as bibliotecas necessárias utilizando o `pip`:
 
 - Chame a função obter_dados_historicos(symbol) passando o símbolo da ação que você deseja analisar, e em seguida, utilize a função avaliar_acao(symbol, data) para obter a recomendação e o gráfico.
 
-```bash
-pip install pandas matplotlib requests
-symbol = 'AAPL'  # Exemplo: Apple Inc.
-dados = obter_dados_historicos(symbol)
-recomendacao, plot_url = avaliar_acao(symbol, dados)
-
-print(recomendacao)
 
 
-Sinta-se à vontade para ajustar as seções conforme necessário e adicionar mais detalhes que você achar relevantes!
+- Sinta-se à vontade para ajustar as seções conforme necessário e adicionar mais detalhes que você achar relevantes!
 
