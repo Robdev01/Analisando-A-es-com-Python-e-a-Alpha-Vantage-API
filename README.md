@@ -21,7 +21,8 @@ Certifique-se de ter o Python instalado em sua máquina. Você pode baixar o Pyt
 
 Instale as bibliotecas necessárias utilizando o `pip`:
 
-##Configuração
+
+## Configuração
 
 - Substitua a variável API_KEY no código pelo seu próprio API Key da Alpha Vantage. Você pode obter uma chave gratuita aqui.
 
