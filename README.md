@@ -24,8 +24,7 @@ Instale as bibliotecas necessárias utilizando o `pip`:
 
 ## Configuração
 
-- Substitua a variável API_KEY no código pelo seu próprio API Key da Alpha Vantage. Você pode obter uma chave gratuita aqui.
-
+- Substitua a variável API_KEY no código pelo seu próprio API Key da Alpha Vantage.
 - Chame a função obter_dados_historicos(symbol) passando o símbolo da ação que você deseja analisar, e em seguida, utilize a função avaliar_acao(symbol, data) para obter a recomendação e o gráfico.
 
 
